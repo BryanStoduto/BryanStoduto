@@ -20,8 +20,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="70" height="35" alt="whatsapp logo"  />
   </a>
   <a href="mailto:stodutolucas1@gmail.com">
-    <img "https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="35" alt="gmail logo"/>   style="max-width: 100%;"
-  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="35" alt="gmail logo" />
+</a>
 </div>
 
 ###
