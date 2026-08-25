@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="README.md">🇧🇷 Português</a> | <a href="README.EN.md">🇺🇸 English</a>
+</p>
+
 <h1 align="center">👋 Olá! Eu sou Bryan Lucas</h1>
 
 <p align="center">
